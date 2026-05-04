@@ -141,4 +141,4 @@ Manages system configuration, users, and monitoring settings
 ---
 
 ## Conclusion
-This system provides a practical and structured approach to analyzing Java programs during execution and improving their quality. It reduces the effort required for debugging by automating defect detection and providing useful repair suggestions. The system is simple to use, flexible, and can be extended further in the future to support more advanced analysis features and larger applications. :contentReference[oaicite:2]{index=2}  
+This system provides a practical and structured approach to analyzing Java programs during execution and improving their quality. It reduces the effort required for debugging by automating defect detection and providing useful repair suggestions. The system is simple to use, flexible, and can be extended further in the future to support more advanced analysis features and larger applications.
